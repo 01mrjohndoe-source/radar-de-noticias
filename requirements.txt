@@ -3,3 +3,7 @@ robotframework
 robotframework-browser[bb]
 requests
 feedparser
+streamlit
+pandas
+plotly
+EOF
